@@ -16,12 +16,8 @@ The goal of this project is to evaluate the efficiency, responsiveness, and resi
 
 ## Project Structure
 
-- `final_project.md` – Full project report with analysis and visuals
-- `images/` – Supporting graphics and charts used in the report
-
-## Full Report
-
-For an in-depth review of the project, including visuals and detailed insights, please refer to the [Final Project Report](./final_project.md).
+- `FINAL_REPORT.md` – Full project report with analysis and visuals
+- `Dashboard.pdf` – Supporting graphics and charts used in the report
 
 ---
 
