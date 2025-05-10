@@ -1,17 +1,31 @@
 # Michelin-Supply-Chain-Analytics
-Power BI dashboard and full project analysis of Michelin's global supply chain – MSE 515 - Engineering Supply Chain Systems and Analytics Final Project
-[![Dashboard Preview](dashboard_preview.png)](./Dashboard.pdf)
-👉 [View Michelin Supply Chain Dashboard (PDF)](./Dashboard.pdf)
 
+This project provides a comprehensive analysis of Michelin’s supply chain, focusing on supply chain drivers, key performance indicators (KPIs), risk management, and sustainability. It was developed as part of the final project for MSE 515: Supply Chain Management at California State University, Northridge.
 
-📂 Sample Data Preview
+## Objective
 
+The goal of this project is to evaluate the efficiency, responsiveness, and resilience of Michelin's supply chain by analyzing its core components and applying strategic frameworks. The study includes data-driven insights and industry best practices to assess how Michelin adapts to global challenges and maintains competitive advantage.
 
-To give users an idea of the structure of the Michelin supply chain dataset, here is a small preview extracted from the simulated data used in this dashboard:
-| Date      | Plant\_ID | Production\_Volume | Defect\_Rate | CO2\_Emissions\_kg | Delivery\_OnTime\_% | Customer\_NPS | Inventory\_Level |
-| --------- | --------- | ------------------ | ------------ | ------------------ | ------------------- | ------------- | ---------------- |
-| 1/11/2023 | PLT001    | 903                | 2.57         | 3848               | 84.78               | 92            | 14202            |
-| 9/26/2023 | PLT001    | 1227               | 2.25         | 2618               | 82.71               | 61            | 4743             |
-| 1/15/2023 | PLT002    | 1065               | 1.44         | 3124               | 94.17               | 47            | 18476            |
-| 2/9/2023  | PLT004    | 1144               | 3.35         | 5745               | 95.33               | 43            | 10941            |
-| 12/3/2023 | PLT005    | 1144               | 1.78         | 2475               | 92.51               | 48            | 8674             |
+## Key Areas of Analysis
+
+- **Supply Chain Drivers**: Facilities, inventory, transportation, information, sourcing, and pricing
+- **Performance Indicators**: Cost, service level, responsiveness, efficiency
+- **Risk Management**: Identification of internal and external risks and mitigation strategies
+- **Sustainability Considerations**: Environmental impact and Michelin’s green initiatives
+- **Strategic Recommendations**: Based on the SCOR model and course frameworks
+
+## Project Structure
+
+- `final_project.md` – Full project report with analysis and visuals
+- `images/` – Supporting graphics and charts used in the report
+
+## Full Report
+
+For an in-depth review of the project, including visuals and detailed insights, please refer to the [Final Project Report](./final_project.md).
+
+---
+
+## Author
+
+Jean Paul Collazo
+M.S. in Engineering Management
