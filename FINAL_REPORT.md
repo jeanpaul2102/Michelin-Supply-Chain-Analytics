@@ -97,7 +97,9 @@ As explored in the academic project:
 > 🌐 [jeanpaul2102.github.io/projects.html](https://jeanpaul2102.github.io/projects.html)
 
 **Title:**  
-Supply Chain Strategy for Michelin | 🔧 RCCA, 🛡️ Risk Mitigation, 📈 KPIs, 🏭 Demand-Driven MRP
+
+Supply Chain Strategy for Michelin | 🔧 RCCA, 🛡️ Risk Mitigation, 📈 KPIs, 🏭 Demand-Driven MRP, 📊 Power BI
+
 
 ---
 
